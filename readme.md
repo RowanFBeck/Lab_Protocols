@@ -2,9 +2,9 @@
 
 ### Cell Culture:
 
-- [Thawing & Freezing INS-1 832/13 Cells](https://github.com/RowanFBeck/Lab_Protocols/blob/master/blob/master/Cell_Culture/ThawingAndFreezingCells.md)
-- [Culturing INS-1 832/13 Cells](https://github.com/RowanFBeck/Lab_Protocols/blob/master/blob/master/Cell_Culture/CulturingCells.md)
-- [Glucose-Stimulated Insulin Secretion (GSIS)](https://github.com/RowanFBeck/Lab_Protocols/blob/master/blob/master/Cell_Culture/GSIS.md)
+- [Thawing & Freezing INS-1 832/13 Cells](https://github.com/RowanFBeck/Lab_Protocols/blob/master/Cell_Culture/ThawingAndFreezingCells.md)
+- [Culturing INS-1 832/13 Cells](https://github.com/RowanFBeck/Lab_Protocols/blob/master/Cell_Culture/CulturingCells.md)
+- [Glucose-Stimulated Insulin Secretion (GSIS)](https://github.com/RowanFBeck/Lab_Protocols/blob/master/Cell_Culture/GSIS.md)
 - [Transfections](https://github.com/RowanFBeck/Lab_Protocols/blob/master/Cell_Culture/Transfections.md)
 
 ------
